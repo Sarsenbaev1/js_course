@@ -54,7 +54,8 @@ myCity.cityGreeting();
 console.log("\n\n");
 
 //                                                  JavaScript Object Notation Формат обена данными
-
+console.log('                                               JavaScript Object Notation Формат обена данными
+')
 const post = {
   title: "My post",
   likesQty: 5,
@@ -68,6 +69,7 @@ console.log(JSON.parse(postStringified));
 console.log("\n\n");
 
 //                                                               Мутация в JavaScript
+console.log('//                                                               Мутация в JavaScript')
 
 // Мутирование копий
 // const person = {
@@ -105,6 +107,7 @@ console.log(person.name); //BOB
 console.log("\n\n");
 
 //                                                     ФУНКЦИИ
+console.log('//_______________________________________________-ФУНКЦИИ')
 /*функция может быть...
 ...именованной 
 ...присвоена переменной
